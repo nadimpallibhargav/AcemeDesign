@@ -1,3 +1,3 @@
 # UX-Design2
-Simple Service provider Web Design
+First practiced website for responsive website
 https://nadimpallibhargav.github.io/UX-Design2/
